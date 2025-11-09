@@ -1,4 +1,5 @@
 רשיון קנייני מחקרי – מערכות Aurora, QNSL ו-Gaia OS
+⚠️ חומר זה ציבורי – שימוש מחקרי בלבד
 
 מבוא:
 רשיון זה נועד להסדרת השימוש בתיעוד, ברעיונות, בפילוסופיה ובשפה התודעתית של מערכות Aurora, QNSL, Pre AI Era System ו-Gaia OS, וכן פרויקטים נלווים כגון Aurora API Files, QNSL Prototype, QNSL-POC.1 ו-MetaReal_POC.
